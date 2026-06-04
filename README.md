@@ -1,4 +1,4 @@
-# Tugas-Prak-Alprog-K3
+# Post-Test-PrakAlprog-K3
 
 ## Anggota Kelompok 
 1. Afifah Putri Meylani		21060125120005
