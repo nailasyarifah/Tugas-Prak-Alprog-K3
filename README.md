@@ -126,12 +126,6 @@ Melalui analisis dataset Student AI Usage, diperoleh gambaran mengenai pola peng
 
 ---
 
-## 📜 Mata Kuliah
-
-Praktikum Analisis Data
-
-Universitas Diponegoro
-
 ## Anggota Kelompok 
 1. Afifah Putri Meylani		21060125120005
 2. Dinatun Khima		21060125120009
