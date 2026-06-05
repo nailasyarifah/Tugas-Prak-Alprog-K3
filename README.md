@@ -126,9 +126,20 @@ Melalui analisis dataset Student AI Usage, diperoleh gambaran mengenai pola peng
 
 ---
 
-## Anggota Kelompok 
-1. Afifah Putri Meylani		21060125120005
-2. Dinatun Khima		21060125120009
-3. Arika Azhar P.		21060125120010
-4. Naila Syarifah		21060125120023
-5. Ina Ria Kamilah		21060125120036
+## Anggota dan Jobdesk Kelompok 
+1. Afifah Putri Meylani	(21060125120005):
+   - Membuat pengodean grafik Kategori B pada file Jupyter Notebook.
+   - Mengedit dan menyusun desain infografis untuk story instagram 
+3. Dinatun Khima		(21060125120009):
+   - Membuat pengodean grafik Kategori D pada file Jupyter Notebook.
+   - Mengedit dan menyusun desain infografis untuk story instagram 
+4. Arika Azhar Paramadin		(21060125120010):
+   - Membuat pengodean grafik kategori C pada file Jupyter Noteboook.
+   - Membuat desain PPT infografis untuk LinkedIn.
+6. Naila Syarifah		(21060125120023):
+   - Mengelola repositori GitHub dan upload berkas.
+   - Membuat desain PPT infografis untuk LinkedIn.
+8. Ina Ria Kamilah		(21060125120036):
+   - Membuat pengodean grafik Kategori A pada file Jupyter.
+   - Membuat desain PPT infografis untuk LinkedIn.
+   - Melakukan finalisasi pengodean grafik gabungan (Subplots 2x2).
